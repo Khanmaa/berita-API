@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Irmansyah Muslimin</h1>
+    <h3>Fitur</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis, soluta.</p>
 </body>
 </html>
